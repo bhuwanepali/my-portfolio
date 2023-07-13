@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.11709d31.css",
+    "main.js": "/my-portfolio/static/js/main.7cab6f9d.js",
+    "static/media/backgroundd.jpg": "/my-portfolio/static/media/backgroundd.ccd3cf08650a047fd1f8.jpg",
+    "static/media/bhuwan.png": "/my-portfolio/static/media/bhuwan.7954340cf82157d73822.png",
+    "static/media/BHUWAN-PARIYAR-cv.pdf": "/my-portfolio/static/media/BHUWAN-PARIYAR-cv.76a670dfb7568822cf76.pdf",
+    "index.html": "/my-portfolio/index.html",
+    "main.11709d31.css.map": "/my-portfolio/static/css/main.11709d31.css.map",
+    "main.7cab6f9d.js.map": "/my-portfolio/static/js/main.7cab6f9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11709d31.css",
+    "static/js/main.7cab6f9d.js"
+  ]
+}
