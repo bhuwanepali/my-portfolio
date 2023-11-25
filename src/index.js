@@ -3,9 +3,9 @@ import ReactDom from 'react-dom';
 import emailjs from '@emailjs/browser';
 import $ from 'jquery';
 import Typed from 'typed.js';
-import Bhuwan from './img/bhuwan.png';
+import Bhuwan from './img/Bhuwann.jpg';
 import logo from './img/logo.png';
-import CV from './file/Resume.pdf';
+import CV from './file/CV.pdf';
 import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
@@ -110,8 +110,11 @@ function App() {
                         <div className="column right">
                             <div className="text">I'm Bhuwan and I'm a <span className="typing-2" ref={ell}></span></div>
                             <p>
-                                Highly motivated Laravel developer with almost 1.5 years of experience seeking a challenging position to contribute my skills and knowledge to develop robust web applications.
-                                Committed to delivering high-quality code and continuously improving my skills to stay up-to-date with the latest technologies.
+                                I am a dedicated web developer with nearly 2 years of hands-on experience in
+                                crafting robust and scalable web applications. Proficient in building RESTful
+                                APIs, I specialize in creating seamless connections between front-end and
+                                back-end systems. My expertise extends to integrating third-party services and
+                                APIs, enhancing the functionality and user experience of web applications.
                             </p>
                             <a href={CV} target='_blank'><i className="fas fa-file-pdf" style={{ fontSize: '18px' }}></i>&nbsp;Open CV</a>
                         </div>
