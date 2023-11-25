@@ -3,7 +3,7 @@ import ReactDom from 'react-dom';
 import emailjs from '@emailjs/browser';
 import $ from 'jquery';
 import Typed from 'typed.js';
-import Bhuwan from './img/Bhuwann.jpg';
+import Bhuwan from './img/Bhuwan.jpg';
 import logo from './img/logo.png';
 import CV from './file/CV.pdf';
 import OwlCarousel from 'react-owl-carousel';
